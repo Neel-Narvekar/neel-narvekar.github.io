@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "NYAXKYVU92.com.stridelink.patient.development",
+        "paths": [ "*" ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "NYAXKYVU92.com.stridelink.patient.development"
+    ]
+  }
+}
