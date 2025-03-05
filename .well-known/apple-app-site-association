@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "NYAXKYVU92.com.stridelink.patient.development",
-        "paths": [ "*" ]
+        "paths": [ "*", "/*" ]
       }
     ]
   },
